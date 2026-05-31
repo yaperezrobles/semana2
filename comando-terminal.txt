@@ -1,0 +1,5 @@
+ls 
+mkdir semana2
+git add . 
+git commit -m "actividad semana 2" 
+git push
